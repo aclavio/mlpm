@@ -1,2 +1,0 @@
-// marklogic module
-module.exports = {};
